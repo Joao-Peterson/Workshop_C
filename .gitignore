@@ -1,7 +1,10 @@
 .~lock.*
 *.exe
+.vscode
 
 hello
 main
 
 *.o
+*.a
+*.exe
