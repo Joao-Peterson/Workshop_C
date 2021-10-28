@@ -4,7 +4,7 @@
  * código em outros processos e etc.
  */
 
-volatile counter;
+volatile int counter;
 
 void ISR_gpio_pin_C2(void *vector){
     

@@ -3,6 +3,8 @@
 
 int main(int argc, char **argv){
 
+    modulo_funcao();
+
     printf("Hello world!");
 
     return 0;
